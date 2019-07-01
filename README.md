@@ -1,6 +1,8 @@
 # statistical-learning-method
 复现李航博士《统计学习方法》一书的代码！
 
+使用语言：python3.6
+
 # 目录
 
 ### 第1篇：监督学习
