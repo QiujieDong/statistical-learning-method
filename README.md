@@ -9,7 +9,7 @@
 - 第1章：统计学习及监督学习概论—[[least squares method]](https://github.com/QiujieDong/statistical-learning-method/blob/master/Chapter1_least_squares_method.ipynb)
 - 第2章：感知机—原始形式：[[perceptron_original_norm]](https://github.com/QiujieDong/statistical-learning-method/blob/master/Chapter2/Chapter2_perceptron_original.ipynb)  对偶形式：[[perceptron_dual_norm]](https://github.com/QiujieDong/statistical-learning-method/blob/master/Chapter2/Chapter2_perceptron_dual.ipynb)
 - 第3章：K近邻法-[[KNN]](https://github.com/QiujieDong/statistical-learning-method/blob/master/Chapter3/Chapter3_k-NN.ipynb)和[[kd Tree]](https://github.com/QiujieDong/statistical-learning-method/blob/master/Chapter3/Chapter3_kdTree.ipynb)
-- 第4章：朴素贝叶斯法
+- 第4章：朴素贝叶斯法[[NavieBayesian-GaussianNB]](https://github.com/QiujieDong/statistical-learning-method/blob/master/Chapter4_NaiveBayesian_GaussianNB.ipynb)
 - 第5章：决策树
 - 第6章：逻辑斯谛回归于最大熵模型
 - 第7章：支持向量机
