@@ -12,7 +12,7 @@
 - 第4章：朴素贝叶斯法[[NavieBayesian-GaussianNB]](https://github.com/QiujieDong/statistical-learning-method/blob/master/Chapter4_NaiveBayesian_GaussianNB.ipynb)
 - 第5章：决策树 [[Decision Tree-ID3]](https://github.com/QiujieDong/statistical-learning-method/tree/master/Chapter5)
 - 第6章：逻辑斯谛回归于最大熵模型[[Classic LR model]](https://github.com/QiujieDong/statistical-learning-method/blob/master/Chapter6/Chapter6_logisticRegression.ipynb)[[maxEntropy_IIS]](https://github.com/QiujieDong/statistical-learning-method/blob/master/Chapter6/Chapter6_maxEntropy_IIS.ipynb)
-- 第7章：支持向量机
+- 第7章：支持向量机[[SVM]](https://github.com/QiujieDong/statistical-learning-method/blob/master/Chapter7_supportVectorMachine.ipynb)
 - 第8章：提升方法
 - 第9章：EM算法及其推广
 - 第10章：隐马尔可夫模型
