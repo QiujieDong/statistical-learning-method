@@ -15,7 +15,7 @@
 - 第7章：支持向量机[[SVM]](https://github.com/QiujieDong/statistical-learning-method/blob/master/Chapter7_supportVectorMachine.ipynb)
 - 第8章：提升方法[[AdaBoost]](https://github.com/QiujieDong/statistical-learning-method/blob/master/Chapter8_AdaBoost.ipynb)
 - 第9章：EM算法及其推广[[EM]](https://github.com/QiujieDong/statistical-learning-method/blob/master/Chapter9_EM.ipynb)
-- 第10章：隐马尔可夫模型
+- 第10章：隐马尔可夫模型[[HMM]](https://github.com/QiujieDong/statistical-learning-method/blob/master/Chapter10_HMM.ipynb)
 - 第11章：条件随机场
 - 第12章：监督学习方法总结
 
